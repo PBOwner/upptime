@@ -32,8 +32,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Fenrus
       href: https://dash.havenhost.info
-    - title: Innova
-      href: https://links.havenhost.info
+    - title: Innova Links
+      href: http://links.havenhost.info
+
+commitMessages:
+  commitAuthorName: "Innova Bot"
+  commitAuthorEmail: "skylar.rae.val@proton.me"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
