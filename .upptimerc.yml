@@ -25,7 +25,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Innova, Inc Status Updates
-  introTitle: "Innova, Inc Status Updates. Where all of Innova, Inc's products statuses have everything needed. Powered by GitHub, created by Rosie
+  introTitle: "Innova, Inc Status Updates. Where all of Innova, Inc's products statuses have everything needed. Powered by GitHub, created by Rosie"
   introMessage: Innova, Inc Status Updates. Ensure you check the statuses often if you ever notice anything weird
   navbar:
     - title: Status
