@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.havenhost.info.ico",
     "slug": "fenrus",
     "status": "down",
-    "uptime": "8.77%",
+    "uptime": "8.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 74,
+      "2025-11-20": 73,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -379,8 +380,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 219,
-    "timeWeek": 293,
-    "timeMonth": 224,
+    "timeDay": 136,
+    "timeWeek": 282,
+    "timeMonth": 226,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-03-07": 18
@@ -427,7 +427,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "innova-ping",
     "status": "down",
-    "uptime": "5.99%",
+    "uptime": "5.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -438,7 +438,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-19": 74,
+      "2025-11-20": 73,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -801,8 +802,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   }
 ]
