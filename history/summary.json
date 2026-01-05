@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.havenhost.info.ico",
     "slug": "fenrus",
     "status": "down",
-    "uptime": "7.99%",
+    "uptime": "7.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 498,
+    "time": 503,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-04": 88,
+      "2026-01-05": 87,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -379,8 +380,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   },
   {
@@ -412,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 47,
-    "timeWeek": 152,
-    "timeMonth": 190,
+    "time": 223,
+    "timeDay": 160,
+    "timeWeek": 159,
+    "timeMonth": 194,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-03-07": 18
@@ -427,18 +427,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "innova-ping",
     "status": "down",
-    "uptime": "5.45%",
+    "uptime": "5.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 42,
+    "time": 43,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-04": 88,
+      "2026-01-05": 87,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -801,8 +802,7 @@
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
-      "2025-01-06": 1440,
-      "2025-01-05": 1440
+      "2025-01-06": 1440
     }
   }
 ]
