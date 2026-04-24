@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.havenhost.info.ico",
     "slug": "fenrus",
     "status": "up",
-    "uptime": "10.54%",
+    "uptime": "10.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
-    "uptimeMonth": "79.17%",
-    "uptimeYear": "6.76%",
-    "time": 1993,
-    "timeDay": 1299,
-    "timeWeek": 3391,
-    "timeMonth": 1993,
-    "timeYear": 1993,
+    "uptimeMonth": "82.46%",
+    "uptimeYear": "7.03%",
+    "time": 1970,
+    "timeDay": 1211,
+    "timeWeek": 2468,
+    "timeMonth": 1970,
+    "timeYear": 1970,
     "dailyMinutesDown": {
       "2026-04-20": 67,
       "2026-04-18": 42,
@@ -360,8 +360,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   },
   {
@@ -375,11 +374,11 @@
     "uptimeWeek": "98.79%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "99.84%",
-    "time": 2092,
-    "timeDay": 1171,
-    "timeWeek": 4021,
-    "timeMonth": 2092,
-    "timeYear": 2092,
+    "time": 2054,
+    "timeDay": 747,
+    "timeWeek": 3557,
+    "timeMonth": 2054,
+    "timeYear": 2054,
     "dailyMinutesDown": {
       "2026-04-20": 122,
       "2026-04-10": 96,
@@ -401,11 +400,11 @@
     "uptimeWeek": "98.79%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.88%",
-    "time": 284,
-    "timeDay": 1014,
-    "timeWeek": 1930,
-    "timeMonth": 1137,
-    "timeYear": 299,
+    "time": 286,
+    "timeDay": 697,
+    "timeWeek": 1333,
+    "timeMonth": 1149,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2026-04-20": 122,
       "2026-04-10": 95,
@@ -422,7 +421,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "innova-ping",
     "status": "down",
-    "uptime": "4.50%",
+    "uptime": "4.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -433,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 131,
+      "2026-04-24": 131,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -796,8 +796,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   }
 ]
