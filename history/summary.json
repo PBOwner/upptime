@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.havenhost.info.ico",
     "slug": "fenrus",
     "status": "up",
-    "uptime": "11.28%",
+    "uptime": "11.31%",
     "uptimeDay": "90.42%",
     "uptimeWeek": "92.24%",
-    "uptimeMonth": "96.47%",
-    "uptimeYear": "8.20%",
-    "time": 2148,
-    "timeDay": 5494,
-    "timeWeek": 2411,
-    "timeMonth": 2148,
-    "timeYear": 2148,
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "8.26%",
+    "time": 2125,
+    "timeDay": 5391,
+    "timeWeek": 2371,
+    "timeMonth": 2045,
+    "timeYear": 2125,
     "dailyMinutesDown": {
       "2026-04-28": 138,
       "2026-04-26": 474,
@@ -358,8 +358,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
-      "2025-04-30": 1440,
-      "2025-04-29": 1440
+      "2025-04-30": 1440
     }
   },
   {
@@ -373,11 +372,11 @@
     "uptimeWeek": "90.74%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "99.67%",
-    "time": 1977,
-    "timeDay": 3325,
-    "timeWeek": 1636,
-    "timeMonth": 1977,
-    "timeYear": 1977,
+    "time": 1959,
+    "timeDay": 3216,
+    "timeWeek": 1647,
+    "timeMonth": 1855,
+    "timeYear": 1959,
     "dailyMinutesDown": {
       "2026-04-28": 361,
       "2026-04-26": 402,
@@ -402,11 +401,11 @@
     "uptimeWeek": "96.42%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.81%",
-    "time": 348,
-    "timeDay": 5205,
-    "timeWeek": 3112,
-    "timeMonth": 1773,
-    "timeYear": 378,
+    "time": 349,
+    "timeDay": 3796,
+    "timeWeek": 3095,
+    "timeMonth": 1772,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2026-04-28": 213,
       "2026-04-26": 148,
@@ -436,7 +435,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-28": 1292,
+      "2026-04-29": 154,
+      "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -799,8 +799,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
-      "2025-04-30": 1440,
-      "2025-04-29": 1440
+      "2025-04-30": 1440
     }
   }
 ]
