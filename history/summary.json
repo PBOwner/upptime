@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.havenhost.info.ico",
     "slug": "fenrus",
     "status": "up",
-    "uptime": "12.03%",
+    "uptime": "12.13%",
     "uptimeDay": "90.30%",
     "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "9.68%",
-    "time": 2032,
-    "timeDay": 848,
-    "timeWeek": 2199,
-    "timeMonth": 2193,
-    "timeYear": 2032,
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "9.87%",
+    "time": 2011,
+    "timeDay": 612,
+    "timeWeek": 2154,
+    "timeMonth": 2202,
+    "timeYear": 2011,
     "dailyMinutesDown": {
       "2026-05-04": 140,
       "2026-04-28": 138,
@@ -353,8 +353,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -366,13 +365,13 @@
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.94%",
-    "uptimeMonth": "96.22%",
+    "uptimeMonth": "96.31%",
     "uptimeYear": "99.64%",
-    "time": 1940,
-    "timeDay": 1176,
-    "timeWeek": 2276,
-    "timeMonth": 1942,
-    "timeYear": 1940,
+    "time": 1912,
+    "timeDay": 358,
+    "timeWeek": 2171,
+    "timeMonth": 1943,
+    "timeYear": 1912,
     "dailyMinutesDown": {
       "2026-04-30": 149,
       "2026-04-28": 361,
@@ -396,12 +395,12 @@
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.36%",
-    "uptimeMonth": "97.57%",
+    "uptimeMonth": "97.66%",
     "uptimeYear": "99.75%",
-    "time": 365,
-    "timeDay": 896,
-    "timeWeek": 2549,
-    "timeMonth": 1830,
+    "time": 366,
+    "timeDay": 224,
+    "timeWeek": 2075,
+    "timeMonth": 1840,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2026-04-30": 355,
@@ -433,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 550,
+      "2026-05-05": 145,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -796,8 +796,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   }
 ]
