@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.havenhost.info.ico",
     "slug": "fenrus",
     "status": "up",
-    "uptime": "12.40%",
+    "uptime": "12.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.67%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "10.40%",
-    "time": 1963,
-    "timeDay": 1046,
-    "timeWeek": 1167,
-    "timeMonth": 2062,
-    "timeYear": 1963,
+    "uptimeYear": "10.68%",
+    "time": 1949,
+    "timeDay": 1138,
+    "timeWeek": 1075,
+    "timeMonth": 2055,
+    "timeYear": 1949,
     "dailyMinutesDown": {
       "2026-05-06": 74,
       "2026-05-05": 22,
@@ -352,8 +352,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   },
   {
@@ -364,14 +363,14 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.57%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "96.81%",
     "uptimeYear": "99.62%",
-    "time": 1862,
-    "timeDay": 1069,
-    "timeWeek": 1433,
-    "timeMonth": 1912,
-    "timeYear": 1862,
+    "time": 1979,
+    "timeDay": 8996,
+    "timeWeek": 2411,
+    "timeMonth": 2094,
+    "timeYear": 1979,
     "dailyMinutesDown": {
       "2026-05-06": 74,
       "2026-05-05": 22,
@@ -394,16 +393,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.havenhost.info.ico",
     "slug": "innova-inc-links",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.21%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "97.65%",
     "uptimeYear": "99.73%",
-    "time": 373,
-    "timeDay": 953,
-    "timeWeek": 923,
-    "timeMonth": 1875,
-    "timeYear": 410,
+    "time": 390,
+    "timeDay": 9053,
+    "timeWeek": 1952,
+    "timeMonth": 2087,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2026-05-06": 74,
       "2026-05-05": 22,
@@ -436,7 +435,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-07": 151,
+      "2026-05-08": 158,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -799,8 +799,7 @@
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
-      "2025-05-09": 1440,
-      "2025-05-08": 1440
+      "2025-05-09": 1440
     }
   }
 ]
